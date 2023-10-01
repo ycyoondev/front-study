@@ -1,0 +1,25 @@
+{
+  "name": "front-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ycyoondev/front-study.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ycyoondev/front-study/issues"
+  },
+  "homepage": "https://github.com/ycyoondev/front-study#readme",
+  "devDependencies": {
+    "node-sass": "^9.0.0",
+    "parcel-bundler": "^1.8.1"
+  }
+}
